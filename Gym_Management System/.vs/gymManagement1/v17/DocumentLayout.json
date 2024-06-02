@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Projects\\Gym Management System C#\\Gym_Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA1D27E-488C-46A5-A95E-562DA7CC1629}|gymManagement1\\gymManagement1.csproj|E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymmanagement1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDA1D27E-488C-46A5-A95E-562DA7CC1629}|gymManagement1\\gymManagement1.csproj|solutionrelative:gymmanagement1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA1D27E-488C-46A5-A95E-562DA7CC1629}|gymManagement1\\gymManagement1.csproj|E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymmanagement1\\delete_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDA1D27E-488C-46A5-A95E-562DA7CC1629}|gymManagement1\\gymManagement1.csproj|solutionrelative:gymmanagement1\\delete_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA1D27E-488C-46A5-A95E-562DA7CC1629}|gymManagement1\\gymManagement1.csproj|E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymmanagement1\\search_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDA1D27E-488C-46A5-A95E-562DA7CC1629}|gymManagement1\\gymManagement1.csproj|solutionrelative:gymmanagement1\\search_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA1D27E-488C-46A5-A95E-562DA7CC1629}|gymManagement1\\gymManagement1.csproj|E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymmanagement1\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDA1D27E-488C-46A5-A95E-562DA7CC1629}|gymManagement1\\gymManagement1.csproj|solutionrelative:gymmanagement1\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA1D27E-488C-46A5-A95E-562DA7CC1629}|gymManagement1\\gymManagement1.csproj|E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymmanagement1\\new staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDA1D27E-488C-46A5-A95E-562DA7CC1629}|gymManagement1\\gymManagement1.csproj|solutionrelative:gymmanagement1\\new staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA1D27E-488C-46A5-A95E-562DA7CC1629}|gymManagement1\\gymManagement1.csproj|E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymmanagement1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDA1D27E-488C-46A5-A95E-562DA7CC1629}|gymManagement1\\gymManagement1.csproj|solutionrelative:gymmanagement1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA1D27E-488C-46A5-A95E-562DA7CC1629}|gymManagement1\\gymManagement1.csproj|e:\\my projects\\gym management system c#\\gym_management system\\gymmanagement1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDA1D27E-488C-46A5-A95E-562DA7CC1629}|gymManagement1\\gymManagement1.csproj|solutionrelative:gymmanagement1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymManagement1\\Form1.cs",
+              "RelativeDocumentMoniker": "gymManagement1\\Form1.cs",
+              "ToolTip": "E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymManagement1\\Form1.cs [Design]",
+              "RelativeToolTip": "gymManagement1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T04:28:48.86Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymManagement1\\Form2.cs",
+              "RelativeDocumentMoniker": "gymManagement1\\Form2.cs",
+              "ToolTip": "E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymManagement1\\Form2.cs [Design]",
+              "RelativeToolTip": "gymManagement1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:37:15.101Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "New Staff.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymManagement1\\New Staff.cs",
+              "RelativeDocumentMoniker": "gymManagement1\\New Staff.cs",
+              "ToolTip": "E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymManagement1\\New Staff.cs [Design]",
+              "RelativeToolTip": "gymManagement1\\New Staff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:36:44.281Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "equipment.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymManagement1\\equipment.cs",
+              "RelativeDocumentMoniker": "gymManagement1\\equipment.cs",
+              "ToolTip": "E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymManagement1\\equipment.cs [Design]",
+              "RelativeToolTip": "gymManagement1\\equipment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:37:41.112Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "search_member.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymManagement1\\search_member.cs",
+              "RelativeDocumentMoniker": "gymManagement1\\search_member.cs",
+              "ToolTip": "E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymManagement1\\search_member.cs [Design]",
+              "RelativeToolTip": "gymManagement1\\search_member.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:53:28.491Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete_Member.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymManagement1\\Delete_Member.cs",
+              "RelativeDocumentMoniker": "gymManagement1\\Delete_Member.cs",
+              "ToolTip": "E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymManagement1\\Delete_Member.cs [Design]",
+              "RelativeToolTip": "gymManagement1\\Delete_Member.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:24:49.699Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymManagement1\\Login.cs",
+              "RelativeDocumentMoniker": "gymManagement1\\Login.cs",
+              "ToolTip": "E:\\My Projects\\Gym Management System C#\\Gym_Management System\\gymManagement1\\Login.cs [Design]",
+              "RelativeToolTip": "gymManagement1\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:40:19.626Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

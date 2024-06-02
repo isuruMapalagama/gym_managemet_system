@@ -1,0 +1,78 @@
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\gymManagement1.exe
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\gymManagement1.deps.json
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\gymManagement1.runtimeconfig.json
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\gymManagement1.dll
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\gymManagement1.pdb
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.Form1.resources
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.Properties.Resources.resources
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.csproj.GenerateResource.cache
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.AssemblyInfoInputs.cache
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.AssemblyInfo.cs
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.csproj.CoreCompileInputs.cache
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.dll
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\refint\gymManagement1.dll
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.pdb
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.genruntimeconfig.cache
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\ref\gymManagement1.dll
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.NewMember.resources
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.csproj.AssemblyReference.cache
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManag.BF845857.Up2Date
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.New_Staff.resources
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.equipment.resources
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.view_equipment.resources
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.search_member.resources
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.Delete_Member.resources
+C:\Users\nuwan\source\repos\gymManagement1\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.Login.resources
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\gymManagement1.exe
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\gymManagement1.deps.json
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\gymManagement1.runtimeconfig.json
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\gymManagement1.dll
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\gymManagement1.pdb
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.csproj.AssemblyReference.cache
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.Delete_Member.resources
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.Equipment.resources
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.Form1.resources
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.NewMember.resources
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.Login.resources
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.New_Staff.resources
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.Properties.Resources.resources
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.search_member.resources
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.view_equipment.resources
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.csproj.GenerateResource.cache
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.AssemblyInfoInputs.cache
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.AssemblyInfo.cs
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.csproj.CoreCompileInputs.cache
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManag.BF845857.Up2Date
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.dll
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\refint\gymManagement1.dll
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.pdb
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\gymManagement1.genruntimeconfig.cache
+E:\My Projects\Gym Management System C#\Gym_Management System\gymManagement1\obj\Debug\net8.0-windows\ref\gymManagement1.dll
